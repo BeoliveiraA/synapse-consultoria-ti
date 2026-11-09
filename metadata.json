@@ -1,0 +1,6 @@
+{
+  "name": "Synapse TI - Consultoria & Transformação Digital",
+  "description": "Consultoria corporativa especializada em estruturação de processos de TI com ITIL, Metodologias Ágeis (Scrum), Segurança da Informação, Governança de TI e Business Intelligence com Power BI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
